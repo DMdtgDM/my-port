@@ -1,0 +1,31 @@
+li {
+    font-weight: 600;
+}
+
+.html {
+    list-style: url("../img/languages-image/html2.png");
+}
+
+.css {
+    list-style: url("../img/languages-image/css-3.png");
+}
+
+.python {
+    list-style: url("../img/languages-image/python.png");
+}
+
+.js {
+    list-style: url("../img/languages-image/js.png");
+}
+
+.node {
+    list-style: url("../img/languages-image/node-js.png");
+}
+
+.flash {
+    list-style: url("../img/electrical-image/flash.png");
+}
+
+.prog {
+    list-style: url("../img/languages-image/letter-c.png");
+}

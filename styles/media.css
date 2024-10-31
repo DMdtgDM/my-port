@@ -1,0 +1,89 @@
+@media (max-width: 360px) {
+    .container {
+        height: 200px;
+    }
+
+    .me, .me2 {
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .card {
+        gap: 0.1rem;
+        height: 200px;
+    } 
+
+
+}
+
+@media  (max-width: 550px){
+
+    #processor {
+        top: 2%;
+    }
+
+    .container {
+        background-size: 50% 80%;
+    }
+
+    .about-me, .about-me2 {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    .me, .me2 {
+        font-weight: 600;
+    }
+
+    .socialmedia {
+        margin:  32px auto;
+        margin-top: 25px;
+    }
+
+    .card {
+        height: 350px;
+    }
+
+    .card {
+        gap: 0.25rem;
+    }
+}
+
+@media  (max-width: 680px){
+
+    #processor {
+        width: 1%;
+        height: 2%;
+    }
+
+    .container {
+        height: 350px;
+    }
+
+    .socialmedia {
+        margin:  32px auto;
+        margin-top: 25px;
+    }
+
+    .arrow1, .arrow2 {
+        display: none;
+    }
+    
+}
+
+@media  (max-width: 805px){
+
+    .container {
+        height: 400px;
+    }
+
+}
+
+@media (max-width: 1220px) {
+    .ar1 p, .ar2 p {
+        top: 0.12%;
+        background-color: goldenrod;
+        font-weight: 600;
+        
+    }
+}

@@ -1,0 +1,14 @@
+.socialmedia {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin:  32px auto;
+    margin-top: 40px;
+}
+
+.social {
+    width: 25px;
+    margin-right: 50px;
+    border-radius: 50px;
+}
+

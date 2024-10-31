@@ -1,0 +1,31 @@
+img:hover  {
+    transform: scale(1.12, 1.12);
+}
+
+#hm{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.3;
+    background-image: url("../img/code-image/hm.jpg");
+}
+
+#processor {
+    display: block;
+    position: absolute;
+    opacity: 0.4;
+    top: 15%;
+    left: 10%;
+}
+
+
+.code {
+    height: inherit;
+    background-repeat: repeat;
+    opacity: 0.2;
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    text-align: center;
+}
+

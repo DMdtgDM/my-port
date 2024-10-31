@@ -1,0 +1,33 @@
+.card {
+    border: 1px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    height: 500px;
+    width: 100%;
+    margin: 20px auto 10px auto;
+}
+
+.card1, .card2 {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 3;
+    color: rgb(0, 0, 0);
+}
+
+.card1:hover, .card2:hover {
+    transform: scale(1.2, 1.11);
+}
+
+.card1 {
+    background-color: white;
+}
+
+.card2 {
+    background-color:aquamarine;
+}
+
+
